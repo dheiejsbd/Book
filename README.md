@@ -10,4 +10,4 @@ Naver Search Api사용
 
 ![image](https://user-images.githubusercontent.com/94959724/204712456-826f8a0a-6104-41da-aff7-3fca4efe77b8.png)
 
-(csv형태로 데이터 저장)
+(isbn을 csv형태로 데이터 저장)
